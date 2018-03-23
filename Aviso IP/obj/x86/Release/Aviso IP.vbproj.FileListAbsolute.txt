@@ -1,0 +1,24 @@
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\bin\x86\Release\Aviso IP.exe
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\bin\x86\Release\Aviso IP.pdb
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\bin\x86\Release\Aviso IP.xml
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\obj\x86\Release\Aviso_IP.Resources.resources
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\obj\x86\Release\Aviso IP.vbproj.GenerateResource.Cache
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\obj\x86\Release\Aviso IP.exe
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\obj\x86\Release\Aviso IP.xml
+c:\users\turus\documents\visual studio 2015\Projects\Aviso IP\Aviso IP\obj\x86\Release\Aviso IP.pdb
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\bin\x86\Release\Aviso IP.exe
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\bin\x86\Release\Aviso IP.pdb
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\bin\x86\Release\Aviso IP.xml
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.vbprojResolveAssemblyReference.cache
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso_IP.Resources.resources
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.vbproj.GenerateResource.Cache
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.vbproj.CoreCompileInputs.cache
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.exe
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.xml
+C:\Users\turus\Desktop\Aviso Ip\Aviso IP\obj\x86\Release\Aviso IP.pdb
+C:\Users\turus\Desktop\programas mios\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.exe
+C:\Users\turus\Desktop\programas mios\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.xml
+C:\Users\turus\Desktop\programas mios\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.pdb
+C:\Users\turus\Desktop\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.exe
+C:\Users\turus\Desktop\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.xml
+C:\Users\turus\Desktop\Aviso Ip con mi email\Aviso IP\obj\x86\Release\Aviso IP.pdb
